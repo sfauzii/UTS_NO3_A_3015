@@ -68,7 +68,7 @@ public class UTS_NO3_A_3015 {
             
             System.out.println("DATA STUDENT STAFF");
             for(StudentStaff_3015 s : S){
-                s.infoStudentStaff_3001();
+                s.infoStudentStaff_3015();
                 System.out.println("");
             }
         } 

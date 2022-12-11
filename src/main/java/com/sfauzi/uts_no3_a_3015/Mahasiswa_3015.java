@@ -26,12 +26,11 @@ public class Mahasiswa_3015 {
         
     }
     
-    public void tampilDataMhs_3015(){
+    public void tampilDataMhs(){
         System.out.println("NIM : "+nim_3015);
         System.out.println("Nama : "+nama_3015);
         System.out.println("Jurusan : "+jurusan_3015);
         System.out.println("IPK : "+ipk_3015);
         
     }
-    
 }
